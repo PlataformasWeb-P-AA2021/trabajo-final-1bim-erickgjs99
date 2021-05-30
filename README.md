@@ -39,3 +39,12 @@ Dada la información de la carpeta ***data***. Realizar las siguientes tareas:
 	* consulta5.py
 		* Los establecimientos ordenados por nombre de parroquia que tengan más de 20 profesores y la cadena "Permanente" en tipo de educación.
 		* Todos los establecimientos ordenados por sostenimiento y tengan código de distrito 11D02.
+
+* Orden de ejecución
+	* Ejecutar el archivo "genera_tablas.py"
+	* Ejecutar el archivo "ingresa_provincias.py"
+	* Ejecutar el archivo "ingresa_cantones.py"
+	* Ejecutar el archivo "ingresa_parroquias.py"
+	* Ejecutar el archivo "ingresa_establecimientos.py"
+
+* Una vez poblada la base de datos realizamos las consultas en el interes que nosotros tengamos
